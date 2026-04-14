@@ -1,0 +1,10 @@
+[
+  {
+    "transactionId": "TXN001",
+    "customerId": "CUST001",
+    "amount": 1000,
+    "tax": 100,
+    "transactionType": "SALE",
+    "date": "2024-04-10"
+  }
+]
